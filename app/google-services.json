@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "552172381066",
+    "project_id": "firefire-dc8be",
+    "storage_bucket": "firefire-dc8be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552172381066:android:83294c17be783520b55e73",
+        "android_client_info": {
+          "package_name": "com.example.firefire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552172381066-vu7s1tofk9pbiof6oreaisa4mqtk39am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYYPpAJSTPysHu5cPKHkzSN0ObrqO_z0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552172381066-vu7s1tofk9pbiof6oreaisa4mqtk39am.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
